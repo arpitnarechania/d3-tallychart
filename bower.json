@@ -1,15 +1,16 @@
 {
-  "name": "d3-tallychart",
+  "name": "d3-matrix",
   "version": "v1.0.0",
-  "homepage": "https://github.com/arpitnarechania/d3-tallychart",
+  "homepage": "https://github.com/arpitnarechania/d3-matrix",
   "authors": [
     "Arpit Narechania <arpitnarechania@gmail.com>"
   ],
-  "description": "Open Source JavaScript Library to render Tally Charts using D3.js",
+  "description": "Open Source JavaScript Library to render Matrices using D3.js",
   "main": "",
   "keywords": [
-    "tally-charts",
-    "d3",
+    "matrix",
+    "rows",
+    "columns",
     "d3.js",
     "visualization",
     "charts",
