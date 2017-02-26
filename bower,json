@@ -1,0 +1,26 @@
+{
+  "name": "d3-tallychart",
+  "version": "v1.0.0",
+  "homepage": "https://github.com/arpitnarechania/d3-tallychart",
+  "authors": [
+    "Arpit Narechania <arpitnarechania@gmail.com>"
+  ],
+  "description": "Open Source JavaScript Library to render Tally Charts using D3.js",
+  "main": "",
+  "keywords": [
+    "tally-charts",
+    "d3",
+    "d3.js",
+    "visualization",
+    "charts",
+    "open-source",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
