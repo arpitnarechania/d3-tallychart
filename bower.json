@@ -13,7 +13,7 @@
     "d3.js",
     "visualization",
     "charts",
-    "open-source",
+    "open-source"
   ],
   "license": "MIT",
   "ignore": [
